@@ -1,14 +1,14 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://michaellitherland.art # todo: change site url.
+title: Michael Litherland - artist # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  subtitle: Portfolio of the artist, Michael Litherland. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Michael Litherland # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -24,15 +24,17 @@ params:
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:michael.litherland@gmail.com'
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
+    - icon: 'fab fa-mastodon fa-lg'
+      url: 'https://artisan.chat/@MostlyDrawing'
       landing: true
+    - icon: 'fab fa-reddit fa-lg'
+      url: 'https://reddit.com/u/nule'
+    - icon: 'fab fa-twitter fa-lg'
+      url: 'https://twitter.com/MostlyDrawing'
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
+      url: 'https://instagram.com/mostly.drawing'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
     - work
