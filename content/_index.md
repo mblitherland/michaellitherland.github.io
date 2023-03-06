@@ -1,5 +1,4 @@
 ---
 desc:
-- Eternity is a minimalist Hugo theme
-- designed for portfolio sites with a fresh feel.
+- Nature and landscape artist working in colored pencil, ink, and watercolor.
 ---

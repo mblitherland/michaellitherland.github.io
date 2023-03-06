@@ -1,5 +1,5 @@
-baseURL: https://michaellitherland.art # todo: change site url.
-title: Michael Litherland - artist # todo: change site name.
+baseURL: https://michaellitherland.art
+title: Michael Litherland
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
@@ -22,19 +22,19 @@ params:
         archive: 3
         people: 1
   socials:
-    # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:michael.litherland@gmail.com'
       landing: true
     - icon: 'fab fa-mastodon fa-lg'
       url: 'https://artisan.chat/@MostlyDrawing'
       landing: true
-    - icon: 'fab fa-reddit fa-lg'
-      url: 'https://reddit.com/u/nule'
+        # - icon: 'fab fa-reddit fa-lg'
+        # url: 'https://reddit.com/u/nule'
     - icon: 'fab fa-twitter fa-lg'
       url: 'https://twitter.com/MostlyDrawing'
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/mostly.drawing'
+      landing: true
+        # - icon: 'fab fa-instagram fa-lg'
+        # url: 'https://instagram.com/mostly.drawing'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
     - work
@@ -63,15 +63,24 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: animals 
+      url: /tags/animals
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: landscapes
+      url: /tags/landscapes
       weight: 3
-    - name: archive
-      url: /tags/archive/
+    - name: tags
+      url: /tags
       weight: 4
+        # - name: people
+        #   url: /tags/people/
+        #   weight: 2
+        # - name: nature
+        #   url: /tags/nature/
+        #   weight: 3
+        # - name: archive
+        #   url: /tags/archive/
+        #   weight: 4
     - name: about
       url: /about/
       weight: 5

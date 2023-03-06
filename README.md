@@ -4,4 +4,4 @@ The personal site of Michael Litherland
 
 ## Technical
 
-Intending to build this out with Jekyll
+This is built with Hugo, using the Eternity theme.
