@@ -10,7 +10,6 @@ tags:
 - bird
 - blue-jay
 - nature
-- work
 ---
 
 ## Blue Jay Closeup
