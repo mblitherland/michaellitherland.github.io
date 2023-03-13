@@ -11,7 +11,6 @@ tags:
 - dalmatian
 - dog
 - ink
-- work
 ---
 
 ## Just The Spots
