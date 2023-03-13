@@ -4,6 +4,7 @@ images:
 - /images/2023/Pigeon-1.jpg
 title: A Little Peck
 date: 2022-07-23
+hideExif: true
 tags:
 - archive # all posts
 - bird

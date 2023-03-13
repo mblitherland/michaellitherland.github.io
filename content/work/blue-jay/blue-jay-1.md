@@ -2,8 +2,9 @@
 weight: 1
 images:
 - /images/2023/Blue-jay-1.jpg
-title: blue jay detail
+title: Blue Jay Closeup
 date: 2022-07-23
+hideExif: true
 tags:
 - archive # all posts
 - bird
@@ -12,6 +13,6 @@ tags:
 - work
 ---
 
-## Blue jay detail
+## Blue Jay Closeup
 
 A close up of a blue jay.

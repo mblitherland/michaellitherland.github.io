@@ -2,8 +2,9 @@
 weight: 1
 images:
 - /images/2023/Bluebird-1.jpg
-title: Bluebird on a branch
+title: Bluebird On A Branch
 date: 2022-07-23
+hideExif: true
 tags:
 - archive # all posts
 - bird
@@ -12,4 +13,4 @@ tags:
 - work
 ---
 
-## Blue jay detail
+## Bluebird On A Branch
