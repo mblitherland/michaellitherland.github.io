@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 5
 images:
 - /images/2023/Dunnock-1.jpg
 title: Dunnock On A Post
@@ -8,6 +8,7 @@ hideExif: true
 tags:
 - archive # all posts
 - bird
+- colored-pencil
 - dunnock
 - nature
 - work

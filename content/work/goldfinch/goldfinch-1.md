@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 7
 images:
 - /images/2023/Goldfinch-1.jpg
 title: Goldfinch On A Branch

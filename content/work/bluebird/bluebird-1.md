@@ -9,6 +9,7 @@ tags:
 - archive # all posts
 - bird
 - bluebird
+- colored-pencil
 - nature
 - work
 ---

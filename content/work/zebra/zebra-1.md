@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 6
 images:
 - /images/2023/Just-the-stripes-1.jpg
 title: Just The Stripes

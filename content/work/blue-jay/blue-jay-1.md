@@ -9,6 +9,7 @@ tags:
 - archive # all posts
 - bird
 - blue-jay
+- colored-pencil
 - nature
 ---
 

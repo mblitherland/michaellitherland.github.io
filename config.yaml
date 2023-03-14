@@ -66,8 +66,8 @@ menu:
     - name: birds
       url: /tags/bird
       weight: 2
-    - name: ink
-      url: /tags/ink
+    - name: landscape
+      url: /tags/landscape
       weight: 3
     - name: tags
       url: /tags

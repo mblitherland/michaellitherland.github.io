@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 1
 images:
 - /images/2023/Cardinal-1.jpg
 title: Cardinal On A Shepherd's Hook
@@ -9,6 +9,7 @@ tags:
 - archive # all posts
 - bird
 - cardinal
+- colored-pencil
 - nature
 - work
 ---
