@@ -1,7 +1,7 @@
 ---
 weight: 7
 images:
-- /images/2023/Goldfinch-1.jpg
+- /images/2022/Goldfinch-1.jpg
 title: Goldfinch On A Branch
 date: 2022-07-23
 hideExif: true
