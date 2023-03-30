@@ -63,7 +63,7 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: birds
+    - name: bird
       url: /tags/bird
       weight: 2
     - name: landscape
