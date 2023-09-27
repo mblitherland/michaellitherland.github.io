@@ -26,13 +26,13 @@ params:
       url: 'mailto:michael.litherland@gmail.com'
       landing: true
     - icon: 'fab fa-mastodon fa-lg'
-      url: 'https://artisan.chat/@MostlyDrawing'
+      url: 'https://mastodon.art/@MostlyDrawing'
       landing: true
-        # - icon: 'fab fa-reddit fa-lg'
-        # url: 'https://reddit.com/u/nule'
-    - icon: 'fab fa-twitter fa-lg'
-      url: 'https://twitter.com/MostlyDrawing'
-      landing: true
+    - icon: 'fab fa-reddit fa-lg'
+      url: 'https://reddit.com/u/nule'
+        # - icon: 'fab fa-twitter fa-lg'
+        # url: 'https://twitter.com/MostlyDrawing'
+        # landing: true
         # - icon: 'fab fa-instagram fa-lg'
         # url: 'https://instagram.com/mostly.drawing'
   homepage: "/work" # homepage link, mostly same with menu.main[0]

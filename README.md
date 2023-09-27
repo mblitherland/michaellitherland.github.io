@@ -1,6 +1,6 @@
 # michaellitherland.github.io
 
-The personal site of Michael Litherland
+The site I maintain to showcase my art
 
 ## Technical
 
@@ -11,3 +11,13 @@ When building this in a new environment you need to pull down the submodule for 
 ```
 git submodule update --init --recursive
 ```
+
+| Current Michael wishes to thank past Michael for the above comment
+
+To install Hugo:
+
+```
+sudo apt install hugo
+```
+
+
